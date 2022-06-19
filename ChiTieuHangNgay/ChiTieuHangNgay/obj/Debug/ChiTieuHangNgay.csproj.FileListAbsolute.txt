@@ -1,0 +1,10 @@
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\bin\Debug\ChiTieuHangNgay.exe.config
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\bin\Debug\ChiTieuHangNgay.exe
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\bin\Debug\ChiTieuHangNgay.pdb
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.csproj.AssemblyReference.cache
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.Properties.Resources.resources
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.csproj.GenerateResource.cache
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.csproj.CoreCompileInputs.cache
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.exe
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.pdb
+E:\Program - Applications\ChiTieuHangNgay\ChiTieuHangNgay\ChiTieuHangNgay\obj\Debug\ChiTieuHangNgay.Home.resources
